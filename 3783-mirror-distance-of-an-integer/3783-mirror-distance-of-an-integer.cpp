@@ -8,5 +8,6 @@ public:
         }
         return res;
     }
+
     int mirrorDistance(int n) { return abs(n - reverse(n)); }
 };
