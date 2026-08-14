@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2573-find-the-string-with-lcp) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Enumeration
@@ -399,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
